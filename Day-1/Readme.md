@@ -1,4 +1,4 @@
-Problem Name: Taxes
+Problem Name: Tax in Chefland
 
 Coding Platform: CodeChef
 
